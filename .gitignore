@@ -2,3 +2,22 @@
 implementation_plan.md
 walkthrough.md
 task.md
+
+# Node/React
+node_modules/
+dist/
+.env
+.env.local
+.env.*
+
+# .NET
+bin/
+obj/
+appsettings.Development.json
+*.user
+
+# IDEs/OS
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
